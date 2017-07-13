@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="ins" value="console.dir($SELECTION$,{depth:null, colors:true});" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
