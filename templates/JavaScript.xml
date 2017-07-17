@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="ins" value="console.dir($SELECTION$,{depth:null, colors:true});" toReformat="false" toShortenFQNames="true">
+  <template name="ins" value="console.dir($SELECTION$,{depth:null, colors:true});" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
